@@ -36,7 +36,14 @@ Function with parameters
 - Keyword arguments (`**kwargs`)
 - Converting tuple arguments into a list
 - Working with dictionaries
-
+Pandas
+- DataFrame Creation
+- DataFrame Information (info)
+- Summary Statistics (describe)
+- Rename Columns
+- Select Columns
+- loc[] and iloc[]
+- CSV File Read and Write
 
 
 
